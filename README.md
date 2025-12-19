@@ -12,7 +12,9 @@ I'm a Freshgraduate at Universitas Bina Sarana Informatika
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/></a>
 <a href="https://codeigniter.com/"><img align="left" alt="Codeigniter" title="Codeigniter" width="21px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-LlvHf5pNB_Q%2FVfocRUh-k4I%2FAAAAAAAAASw%2FRSGkE7uNvKg%2Fs1600%2Fcodeigniter_logo.png&f=1&nofb=1&ipt=812700a6052525f928b1bcf2ea46b72afd376b9f3c691fc1336f3a1744c57ae6&ipo=images"/></a>
 <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind" title="Tailwind" width="23px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodekitapp.com%2Fimages%2Fhelp%2Ffree-tailwind-icon%402x.png&f=1&nofb=1&ipt=8f92b841100e593e7fb038f8e6a3aa1ff435c14a2307b3ac7ad4444d676832f7&ipo=images"/></a>
-<a href="https://react.dev/learn"><img align="left" alt="Tailwind" title="Tailwind" width="23px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.stickpng.com%2Fimages%2F584830f5cef1014c0b5e4aa1.png&f=1&nofb=1&ipt=7ae3534289201ea2b1971bd25384620535929c4ac286646048e45aa966a2bac5&ipo=images"/></a>
+<a href="https://react.dev/learn"><img align="left" alt="Tailwind" title="React" width="23px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.stickpng.com%2Fimages%2F584830f5cef1014c0b5e4aa1.png&f=1&nofb=1&ipt=7ae3534289201ea2b1971bd25384620535929c4ac286646048e45aa966a2bac5&ipo=images"/></a>
+<a href="https://expressjs.com/"><img align="left" alt="Tailwind" title="expressjs" width="23px" src="https://icons8.com/icon/WNoJgbzDr3i2/express-js"/></a>
+<a href="https://figma.com/"><img align="left" alt="Tailwind" title="figma" width="23px" src="https://play.google.com/store/apps/details?id=com.figma.mirror"/></a>
 <br>
 <br>
 
