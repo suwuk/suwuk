@@ -1,10 +1,8 @@
 ## Hi! 👋 I'm Diaz Aditya Yudha
 
-love learning about tech especially about **Web Development**, Progress on learning :
- * ReactJs
- * Google Cloud
+love learning about tech especially about **Web Development**
 
-I'm currently studying at the Universitas Bina Sarana Informatika
+I'm a Freshgraduate at Universitas Bina Sarana Informatika
 <br>
 <br>
 
